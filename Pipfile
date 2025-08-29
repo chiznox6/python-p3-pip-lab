@@ -7,7 +7,6 @@ name = "pypi"
 pluggy = "*"
 requests = "==2.27.1"
 
-
 [dev-packages]
 pytest = "==7.1.3"
 
